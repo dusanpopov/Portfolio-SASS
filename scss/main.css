@@ -96,6 +96,7 @@
   width: 100%;
   opacity: 0.98;
   visibility: hidden;
+  background: #1d1c1c;
 }
 
 .nav.open {
