@@ -1,3 +1,7 @@
+.fab {
+  font-size: 2rem;
+}
+
 .home {
   height: 100%;
   padding-top: 40vh;
@@ -92,7 +96,6 @@
   width: 100%;
   opacity: 0.98;
   visibility: hidden;
-  background-color: #202020;
 }
 
 .nav.open {
@@ -492,10 +495,10 @@ main .social-icons {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
+  -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+      -ms-flex-direction: row;
+          flex-direction: row;
   bottom: 1rem;
   left: 1rem;
 }
