@@ -92,6 +92,7 @@
   width: 100%;
   opacity: 0.98;
   visibility: hidden;
+  background-color: #202020;
 }
 
 .nav.open {
@@ -506,6 +507,6 @@ main .social-icons a {
 }
 
 main .social-icons a:hover {
-  color: #fbc531;
+  color: #6b6b6b;
 }
 /*# sourceMappingURL=main.css.map */
